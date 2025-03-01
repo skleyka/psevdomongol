@@ -12,6 +12,8 @@
 Версия 1.0 работает в том числе на версиях Python ниже 3.6.
 Версия 2.0 и выше работает начиная с Python версии 3.6.
 
+Общедоступный Colab с актуальной версией программы [тут](https://colab.research.google.com/drive/1AJQGKfx3vK4k97SnMXwI6SNYbeoGETSf?usp=sharing).
+
 **Change-log:**
 
 *v2.1*
