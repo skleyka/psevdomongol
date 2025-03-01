@@ -15,6 +15,8 @@
 Общедоступный Colab с актуальной версией программы [тут](https://colab.research.google.com/drive/1AJQGKfx3vK4k97SnMXwI6SNYbeoGETSf?usp=sharing).
 
 **Change-log:**
+*v2.2*
+- Разбанены некоторые буквосочетания, включающие букву Ы
 
 *v2.1*
 - Добавлена проверка на плохие буквосочетания
